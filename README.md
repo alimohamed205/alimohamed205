@@ -1,75 +1,71 @@
-<h1 align="center">Hi there, I'm Ali Mohamed Abdelfadil 👋</h1>
-<h3 align="center">Mechatronics Engineer | Embedded Linux & ROS Developer | Robotics, DevOps & Cloud Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ali Mohamed Abdelfadil Hassan</h1>
+<h3 align="center">A passionate Mechatronics Engineer & Robotics Developer</h3>
 
----
-
-- 🔭 I’m currently working as a **Robotics Instructor** and **Application Engineer**
-- 🌱 I’m learning and building with **ROS2, Docker, Kubernetes, AWS, Embedded Linux, Modern C++, and Computer Vision**
-- 🤖 Passionate about **autonomous robotics**, **embedded systems**, and **cloud-integrated robot control**
-- 🛠 I’m actively developing ROS-based robots, simulating in **Gazebo/RViz**, and integrating vision-based AI
-- 📫 How to reach me: **aliluka205@gmail.com**
-- ⚡ Fun fact: I’m building a humanoid robot from scratch to interact with the world intelligently!
-
----
-
-### 🧠 Skills & Technologies
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)
-![ROS2](https://img.shields.io/badge/-ROS2-05122A?style=flat&logo=ros)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-05122A?style=flat)
-![Jetson Nano](https://img.shields.io/badge/-Jetson%20Nano-05122A?style=flat)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-
----
-
-### 🚀 Projects
-
-#### 🧭 Autonomous Self-Driving Robot (Graduation Project)
-A fully simulated and real-time ROS-based robot capable of navigating autonomously using camera, IMU, and ultrasonic sensors.  
-Technologies: ROS, ROS2, Gazebo, RViz, Python, OpenCV, Embedded C.
-
-#### 🎯 WRO 2024 Competition Robot
-Custom 4-wheeled line follower robot with obstacle avoidance and object pickup using a robotic arm.  
-Technologies: IR sensors, ESP, stepper motors, Raspberry Pi, OpenCV, ROS.
-
-#### 💰 Universal Currency Counting Machine
-Desktop application to read and report values from currency counting machines via LAN using TCP/IP.  
-Technologies: Python, Linux, TCP/IP, Bash, Windows deployment.
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliLuka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AliLuka&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <a href="https://www.linkedin.com/in/ali-mohamed-59a07b219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🚀 About Me
 
-- Email: [aliluka205@gmail.com](mailto:aliluka205@gmail.com)
-- LinkedIn: [linkedin.com/in/ali-mechatronics](https://www.linkedin.com/in/ali-mechatronics) *(Update this if needed)*
-
----
-
-### 💡 Current Goals
-- Build a humanoid robot like **Sophia** from scratch
-- Become professional in **ROS2, Computer Vision, Embedded Linux, and Cloud Robotics**
-- Contribute to **open source robotics** and land an internship in **automotive or DevOps robotics**
+- 👨‍💻 I’m an Embedded Linux & Robotics Engineer passionate about **ROS2**, **Computer Vision**, and **Cloud Robotics**.
+- 🎓 I’m graduating in 2024 with a Bachelor's degree in Mechatronics Engineering.
+- 🔭 Currently working on [Autonomous Robots](#) and simulation projects using **Gazebo**, **RViz**, and **ROS2**.
+- 🌱 I’m learning DevOps tools like Docker, Kubernetes, and AWS to enable scalable robotic systems.
+- 💬 Ask me about anything related to **C++**, **Embedded Systems**, **Linux**, or **ROS2**.
 
 ---
 
-> "I don't just build robots, I build the future one bit at a time." 🚀
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliLuka&show_icons=true&theme=radical" alt="Ali GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliLuka&theme=radical" alt="Ali Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLuka&layout=compact&theme=radical" alt="Top Langs" />
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AliLuka&theme=radical" alt="Trophies" /></a>
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+- 📫 Email: aliluka205@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/ali-mohamed-59a07b219](https://www.linkedin.com/in/ali-mohamed-59a07b219)  
+- 🌐 Portfolio: *(add when ready)*
+
+---
+
+### 📝 Recent Projects
+> Soon you'll see:
+- 🚗 Autonomous Driving Robot Simulation with ROS2
+- 🎮 Object Detection & Color Tracking using OpenCV + Python
+- 🤖 WRO Robot Challenge with Line Following + Arm Control
+
+---
+
