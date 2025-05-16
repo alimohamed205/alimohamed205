@@ -36,19 +36,18 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliLuka&show_icons=true&theme=radical" alt="Ali GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimohamed205&show_icons=true&theme=radical" alt="Ali GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliLuka&theme=radical" alt="Ali Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimohamed205&theme=radical" alt="Ali Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLuka&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimohamed205&layout=compact&theme=radical" alt="Top Langs" />
   <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AliLuka&theme=radical" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliluka205&theme=radical" alt="Trophies" /></a>
 </p>
 
 ---
@@ -63,9 +62,10 @@
 
 ### 📝 Recent Projects
 > Soon you'll see:
-- 🚗 Autonomous Driving Robot Simulation with ROS2
-- 🎮 Object Detection & Color Tracking using OpenCV + Python
-- 🤖 WRO Robot Challenge with Line Following + Arm Control
+🚗 Autonomous Driving Robot Simulation with ROS2
+🎮 Object Detection & Color Tracking using OpenCV + Python
+🤖 WRO Robot Challenge
+ 🤖 Humanoid Robot Development (Ongoing)
 
 ---
 
